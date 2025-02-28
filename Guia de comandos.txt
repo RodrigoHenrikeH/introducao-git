@@ -1,0 +1,11 @@
+Passo a Passo de como "commitar" um arquivo no Git Hub
+
+git Init --> Criar um repositório local
+
+git remote add origin (adicione) "Link do GitHub"
+
+git add . (não se esqueça do espaço)
+
+git commit -m "Comentário sobre a mudança"
+
+git push origin main
