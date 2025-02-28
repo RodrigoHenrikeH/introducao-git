@@ -15,3 +15,5 @@ Agora estamos na branch nova
 Fizemos essa branch nova com o comando:
 git checkout -b dev
 (e assim foi criada a branch "dev")
+
+para juntar o conteúdo de ambas as branchs, utilizamos o código de comando "git merge dev" (estava na branch main e adicionamos o conteúdo da dev nela)
