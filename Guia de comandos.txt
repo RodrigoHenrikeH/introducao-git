@@ -8,4 +8,10 @@ git add . (não se esqueça do espaço)
 
 git commit -m "Comentário sobre a mudança"
 
-git push origin main
+git push origin main.
+
+Agora estamos na branch nova
+
+Fizemos essa branch nova com o comando:
+git checkout -b dev
+(e assim foi criada a branch "dev")
